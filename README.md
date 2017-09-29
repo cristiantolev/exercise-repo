@@ -2,5 +2,3 @@
 Repo made for exercise
 
 Made by Christian Tolev
-
-conflict part
